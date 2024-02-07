@@ -5,9 +5,8 @@ Tiner (misspelled timer) - small windows form based timer, set in seconds, which
 
 MouseActivity.py - prevents the screen from being disabled by moving the mouse and switching on/off caps lock
 
-HltvFantasyRolesCalc -Work in progress, currently all the values have to be gathered manually, only the brute forcing of all the combinations is in the script. The goal of the project is to help assign player roles once the team is selected based on the big and small bonus historical probability.
-Odds.xlsx is used to get expected values for each role of each player
-The expected values are placed in Values.xlsx which is used by the script
+HltvFantasyRolesCalc - The goal of the project is to help assign player roles once the team is selected based on the big and small bonus historical probability.
+Usage: once a team is selected and confirmed open the role asginment window and hit the power view button, all the players should be shown at the side of the role window then run the script. It will click all the role buttons and get the odds using ctrl+a+v and do the calculation, assuming screen size of 2560x1440, needs adjustment manually for other sizes.
 More information about the hltv fantasy game here: https://www.hltv.org/fantasy (not affiliated or sponsored, just like watching Counter-Strike)
 
 
