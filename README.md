@@ -10,3 +10,5 @@ Usage: once a team is selected and confirmed open the role asginment window and 
 More information about the hltv fantasy game here: https://www.hltv.org/fantasy (not affiliated or sponsored, just like watching Counter-Strike)
 
 TTS - a more simplified self-made version of https://github.com/SietseT/ElundusCoreApp, also used https://github.com/chrisjp/tts for reference
+
+Passwordchecker - simple console app to safely(as far as I understand) check if a password has been leaked using https://haveibeenpwned.com/API/v3#SearchingPwnedPasswordsByRange
