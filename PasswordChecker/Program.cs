@@ -13,6 +13,7 @@ namespace PasswordChecker
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("For using https://haveibeenpwned.com/ checker without having to poke your password in it");
             Console.WriteLine("Enter pass");
             string input = Console.ReadLine();
             string hash = HashHelper.Hash(input);
